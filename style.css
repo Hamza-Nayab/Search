@@ -1,0 +1,168 @@
+.nav{
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    padding: 15px;
+}
+
+.nav2{
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+}
+
+
+.item{
+    padding: 15px;
+
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+#logo{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    margin: 15px;
+}
+
+.search{
+    display: flex;
+    z-index: 3;
+    min-height: 44px;
+    background: white;
+    border: 1px solid #5f6368;
+    box-shadow: none;
+    border-radius: 24px;
+    margin: 15px auto;
+    width: 638px;
+}
+
+.sub{
+    background-color: #f8f9fa;
+    border: 1px solid #f8f0fa;
+    border-radius: 4px;
+    color: black;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    margin: 11px 4px;
+    padding: 0 16px;
+    line-height: 27px;
+    height: 36px;
+    min-width: 54px;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+}
+
+.btn{
+    display: flex;
+    justify-content: center
+}
+
+.nav{
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    padding: 15px;
+}
+.item{
+    padding: 15px;
+
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+
+#logo{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+}
+
+#adv{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-weight: inherit;
+    font-style: inherit;
+    font-size: 100%;
+    vertical-align: baseline;
+    text-decoration: none;
+}
+
+.advtxt{
+    color: #d93025;
+    font-size: 20px;
+    margin: 25px 35px;
+}
+
+.logo2{
+    display: inline-block;
+    height: 24px;
+    width: 74px;
+}
+
+#line{
+    border-bottom: 1px solid #ebebeb;
+
+    margin: 30px;
+}
+
+.find{
+    font-size: 16px;
+    color: #333;
+
+}
+
+
+.row{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.left{
+    width: 220px;
+}
+
+.advin{
+    border-radius: 1px;
+    border: 1px solid #d9d9d9;
+    border-top: 1px solid #c0c0c0;
+    font-size: 13px;
+    height: 25px;
+    padding: 1px 8px;
+    width: 385px ;
+}
+
+.adv-adv{
+
+    border-radius: 2px;
+    cursor: default;
+    font-size: 11px;
+    font-weight: bold;
+    text-align: center;
+    white-space: nowrap;
+    outline: 0;
+    
+}
+
+.adv-btn{
+    box-shadow: none;
+    background-color: #4D90fe;
+    border: 1px solid #3079ed;
+    color: #fff;
+    height: 30px;
+    min-width: 120px;
+    float: right;
+    margin-top: 12px;
+}
+.last{
+    width: 630px;
+}
